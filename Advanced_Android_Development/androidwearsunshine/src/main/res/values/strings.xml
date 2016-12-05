@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidWearSunshine</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+    <string name="degree_code">\u00B0</string>
+</resources>

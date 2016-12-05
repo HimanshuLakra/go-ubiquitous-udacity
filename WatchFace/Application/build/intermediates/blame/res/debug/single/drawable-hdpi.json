@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Application/src/main/res/drawable-hdpi/tile.9.png"
+    }
+]

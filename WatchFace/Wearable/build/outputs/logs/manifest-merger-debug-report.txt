@@ -1,0 +1,333 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:17:1-358:12
+	package
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:17:11-59
+	android:versionName
+		INJECTED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:20:5-22:40
+MERGED from [com.android.support:palette-v7:24.1.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/palette-v7/24.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v13:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/AndroidManifest.xml:21:5-23:55
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:22:9-38
+		INJECTED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:21:9-35
+		INJECTED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:24:5-63
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:24:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:27:22-65
+uses-permission#com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:30:5-103
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:30:22-101
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:33:5-71
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:33:22-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:36:22-76
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:38:5-88
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:38:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:39:5-82
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:39:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:40:5-87
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:40:30-85
+application
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:42:5-356:19
+MERGED from [com.android.support:palette-v7:24.1.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/palette-v7/24.1.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:support-v13:24.2.1] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/AndroidManifest.xml:6:5-19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:45:9-41
+	android:allowBackup
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:43:9-35
+	android:icon
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:44:9-45
+meta-data#com.google.android.gms.version
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:46:9-48:68
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:47:13-58
+uses-library#com.google.android.wearable
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:50:9-52:39
+	android:required
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:51:13-55
+service#com.example.android.wearable.watchface.AnalogWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:54:9-76:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:56:13-48
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:57:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:55:13-51
+meta-data#android.service.wallpaper
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:58:13-60:53
+	android:resource
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:60:17-51
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:59:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:61:13-63:62
+	android:resource
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:63:17-60
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:62:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:64:13-66:71
+	android:resource
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:65:17-86
+meta-data#com.google.android.wearable.watchface.companionConfigurationAction
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:67:13-69:87
+	android:value
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:69:17-85
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:68:17-98
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:71:13-75:29
+action#android.service.wallpaper.WallpaperService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:72:17-84
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:72:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:74:17-101
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:74:27-99
+service#com.example.android.wearable.watchface.SweepWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:77:9-96:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:79:13-47
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:80:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:78:13-50
+service#com.example.android.wearable.watchface.OpenGLWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:97:9-119:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:99:13-48
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:100:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:98:13-51
+service#com.example.android.wearable.watchface.CardBoundsWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:120:9-142:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:122:13-53
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:123:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:121:13-55
+service#com.example.android.wearable.watchface.ComplicationSimpleWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:143:9-166:19
+	android:enabled
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:145:13-35
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:146:13-56
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:147:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:144:13-63
+meta-data#com.google.android.wearable.watchface.wearableConfigurationAction
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:157:13-159:100
+	android:value
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:159:17-98
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:158:17-97
+activity#android.support.wearable.complications.ComplicationHelperActivity
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:168:9-101
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:168:19-99
+activity#com.example.android.wearable.watchface.ComplicationSimpleConfigActivity
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:169:9-178:20
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:171:13-56
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:170:13-61
+intent-filter#android.intent.category.DEFAULT+com.example.android.wearable.watchface.CONFIG_COMPLICATION_SIMPLE+com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:172:13-177:29
+action#com.example.android.wearable.watchface.CONFIG_COMPLICATION_SIMPLE
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:173:17-107
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:173:25-105
+category#com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:175:17-113
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:175:27-111
+category#android.intent.category.DEFAULT
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:176:17-75
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:176:27-73
+service#com.example.android.wearable.watchface.InteractiveWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:180:9-199:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:182:13-53
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:183:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:181:13-56
+service#com.example.android.wearable.watchface.DigitalWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:200:9-225:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:202:13-49
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:203:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:201:13-52
+activity#com.example.android.wearable.watchface.DigitalWatchFaceWearableConfigActivity
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:233:9-242:20
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:235:13-56
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:234:13-67
+intent-filter#android.intent.category.DEFAULT+com.example.android.wearable.watchface.CONFIG_DIGITAL+com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:236:13-241:29
+action#com.example.android.wearable.watchface.CONFIG_DIGITAL
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:237:17-95
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:237:25-93
+service#com.example.android.wearable.watchface.CalendarWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:244:9-263:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:246:13-50
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:247:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:245:13-53
+service#com.example.android.wearable.watchface.DigitalWatchFaceConfigListenerService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:264:9-273:19
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:264:18-71
+intent-filter#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:265:13-272:29
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:266:17-90
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:266:25-88
+data
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:268:17-271:44
+	android:host
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:269:21-37
+	android:scheme
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:271:21-42
+	android:pathPrefix
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:270:21-43
+service#com.example.android.wearable.watchface.FitDistanceWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:274:9-296:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:276:13-54
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:277:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:275:13-56
+service#com.example.android.wearable.watchface.FitStepsWatchFaceService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:297:9-316:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:299:13-51
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:300:13-67
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:298:13-53
+activity#com.example.android.wearable.watchface.CalendarWatchFacePermissionActivity
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:318:9-321:20
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:320:13-82
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:319:13-64
+service#com.example.android.wearable.watchface.provider.RandomNumberProviderService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:323:9-351:19
+	android:label
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:326:13-73
+	android:permission
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:327:13-99
+	android:icon
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:325:13-49
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:324:13-65
+intent-filter#android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:328:13-330:29
+action#android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:329:17-115
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:329:25-113
+meta-data#android.support.wearable.complications.SUPPORTED_TYPES
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:332:13-334:68
+	android:value
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:334:17-66
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:333:17-86
+meta-data#android.support.wearable.complications.UPDATE_PERIOD_SECONDS
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:348:13-350:38
+	android:value
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:350:17-36
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:349:17-92
+service#com.example.android.wearable.watchface.provider.UpdateComplicationDataService
+ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:352:9-355:19
+	android:exported
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:354:13-37
+	android:name
+		ADDED from /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/src/main/AndroidManifest.xml:353:13-67
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/tt/Downloads/Udacity/AndrodWearProject/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:20:19-85
